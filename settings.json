@@ -12,5 +12,4 @@
     "editor.quickSuggestionsDelay": 250,
     "editor.parameterHints.enabled": false,
     "python.dataScience.debugJustMyCode": false,
-    "python.testing.useExperimentalDebugger": true
 }
