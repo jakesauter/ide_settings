@@ -1,0 +1,16 @@
+{
+    "python.jediEnabled": false,
+    "breadcrumbs.enabled": true,
+    "python.formatting.provider": "yapf",
+    "window.zoomLevel": 0,
+    "editor.minimap.enabled": false,
+    "python.autoComplete.showAdvancedMembers": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "window.openFilesInNewWindow": "on",
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "editor.quickSuggestionsDelay": 250,
+    "editor.parameterHints.enabled": false,
+    "python.dataScience.debugJustMyCode": false,
+    "python.testing.useExperimentalDebugger": true
+}
