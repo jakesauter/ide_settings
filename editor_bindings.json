@@ -1,0 +1,13 @@
+{
+    "copylinesdown" : "Shift+Alt+Down",
+    "copylinesup" : "Shift+Alt+Up",
+    "fold" : "||",
+    "foldOther" : "",
+    "foldall" : "",
+    "gotoend" : "Ctrl+End",
+    "gotostart" : "Ctrl+Home",
+    "toggleFoldWidget" : "F2",
+    "undo" : "Ctrl+Z",
+    "unfold" : "||",
+    "unfoldall" : ""
+}
