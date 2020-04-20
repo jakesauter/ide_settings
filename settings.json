@@ -11,5 +11,10 @@
     "workbench.editor.enablePreviewFromQuickOpen": false,
     "editor.quickSuggestionsDelay": 250,
     "editor.parameterHints.enabled": false,
-    "python.dataScience.debugJustMyCode": false,
+    "workbench.colorTheme": "Solarized Dark",
+    "remote.SSH.configFile": "/home/devuser/.ssh/config",
+    "remote.SSH.showLoginTerminal": false,
+    "remote.SSH.useLocalServer": false,
+    "remote.SSH.connectTimeout": 30
 }
+
