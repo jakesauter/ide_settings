@@ -10,7 +10,8 @@
     "layoutZoomSource": "Shift+Cmd+1",
     "layoutZoomFiles": "Cmd+F",
     "layoutZoomPlots": "Cmd+P",
-    "focusCenterSeparator": "Shift+Cmd+C",
-    "focusLeftSeparator": "Shift+Cmd+L",
-    "focusRightSeparator": "Shift+Cmd+R"
+    "focusCenterSeparator": "Alt+Shift+C",
+    "focusLeftSeparator": "Alt+Shift+L",
+    "focusRightSeparator": "Alt+Shift+R",
+    "newTerminal": ""
 }
